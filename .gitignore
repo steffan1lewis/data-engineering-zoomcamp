@@ -24,3 +24,9 @@ __pycache__/
 
 # VS Code
 .vscode/
+
+# Google Cloud credentials
+service-account.json
+
+# Kestra encoded secrets
+.env_encoded
